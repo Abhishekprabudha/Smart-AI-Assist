@@ -16,7 +16,6 @@ st.markdown("""
         }
     </style>
 """, unsafe_allow_html=True)
-s
 st.markdown("<h1 style='text-align: center;'>📦 Smart AI Assistant</h1>", unsafe_allow_html=True)
 
 # ---------------------------
