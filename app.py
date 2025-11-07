@@ -16,8 +16,8 @@ st.markdown("""
         }
     </style>
 """, unsafe_allow_html=True)
-
-st.markdown("<h1 style='text-align: center;'>📦 AI Advisory</h1>", unsafe_allow_html=True)
+s
+st.markdown("<h1 style='text-align: center;'>📦 Smart AI Assistant</h1>", unsafe_allow_html=True)
 
 # ---------------------------
 # Load data for HS/Duty tab
@@ -84,7 +84,7 @@ def compute_rto_percent(product: str, dest: str) -> int:
 # ---------------
 # Tabs
 # ---------------
-tab1, tab2 = st.tabs(["🇮🇩 Shipment ETA / RTO (Indonesia)", "🧾 HS Code & Duty"])
+tab1, tab2 = st.tabs(["Shipment Advisory (Indonesia)", "🧾 HS Code & Duty"])
 
 # ============================================================================
 # TAB 1: Indonesia shipment simulator (as per your new requirement)
