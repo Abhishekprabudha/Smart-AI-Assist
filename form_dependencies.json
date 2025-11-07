@@ -1,0 +1,683 @@
+{
+  "product_names": [
+    "air conditioner",
+    "ball pen",
+    "bicycle",
+    "car tire",
+    "chocolate bar",
+    "coffee beans",
+    "cotton bedsheet",
+    "electric iron",
+    "glass bottle",
+    "laptop computer",
+    "led bulb",
+    "lithium ion battery",
+    "men cotton shirt",
+    "mobile phone",
+    "motorcycle",
+    "olive oil",
+    "plastic chair",
+    "printer",
+    "refrigerator",
+    "shampoo",
+    "solar panel",
+    "steel pipe",
+    "tablet computer",
+    "television",
+    "wheat flour"
+  ],
+  "product_to_countries": {
+    "lithium ion battery": [
+      "Japan",
+      "Singapore",
+      "Thailand",
+      "United States"
+    ],
+    "solar panel": [
+      "Japan",
+      "Singapore",
+      "Thailand",
+      "United States"
+    ],
+    "mobile phone": [
+      "Japan",
+      "Singapore",
+      "Thailand",
+      "United States"
+    ],
+    "laptop computer": [
+      "Japan",
+      "Singapore",
+      "Thailand",
+      "United States"
+    ],
+    "plastic chair": [
+      "Japan",
+      "Singapore",
+      "Thailand",
+      "United States"
+    ],
+    "men cotton shirt": [
+      "Japan",
+      "Singapore",
+      "Thailand",
+      "United States"
+    ],
+    "steel pipe": [
+      "Japan",
+      "Singapore",
+      "Thailand",
+      "United States"
+    ],
+    "wheat flour": [
+      "Japan",
+      "Singapore",
+      "Thailand",
+      "United States"
+    ],
+    "air conditioner": [
+      "Japan",
+      "Singapore",
+      "Thailand",
+      "United States"
+    ],
+    "led bulb": [
+      "Japan",
+      "Singapore",
+      "Thailand",
+      "United States"
+    ],
+    "television": [
+      "Japan",
+      "Singapore",
+      "Thailand",
+      "United States"
+    ],
+    "refrigerator": [
+      "Japan",
+      "Singapore",
+      "Thailand",
+      "United States"
+    ],
+    "tablet computer": [
+      "Japan",
+      "Singapore",
+      "Thailand",
+      "United States"
+    ],
+    "motorcycle": [
+      "Japan",
+      "Singapore",
+      "Thailand",
+      "United States"
+    ],
+    "car tire": [
+      "Japan",
+      "Singapore",
+      "Thailand",
+      "United States"
+    ],
+    "glass bottle": [
+      "Japan",
+      "Singapore",
+      "Thailand",
+      "United States"
+    ],
+    "coffee beans": [
+      "Japan",
+      "Singapore",
+      "Thailand",
+      "United States"
+    ],
+    "printer": [
+      "Japan",
+      "Singapore",
+      "Thailand",
+      "United States"
+    ],
+    "olive oil": [
+      "Japan",
+      "Singapore",
+      "Thailand",
+      "United States"
+    ],
+    "bicycle": [
+      "Japan",
+      "Singapore",
+      "Thailand",
+      "United States"
+    ],
+    "shampoo": [
+      "Japan",
+      "Singapore",
+      "Thailand",
+      "United States"
+    ],
+    "ball pen": [
+      "Japan",
+      "Singapore",
+      "Thailand",
+      "United States"
+    ],
+    "cotton bedsheet": [
+      "Japan",
+      "Singapore",
+      "Thailand",
+      "United States"
+    ],
+    "electric iron": [
+      "Japan",
+      "Singapore",
+      "Thailand",
+      "United States"
+    ],
+    "chocolate bar": [
+      "Japan",
+      "Singapore",
+      "Thailand",
+      "United States"
+    ]
+  },
+  "product_country_to_descriptions": {
+    "lithium ion battery|United States": [
+      "Lithium Ion Battery variant 1 for United States",
+      "Lithium Ion Battery variant 2 for United States",
+      "Lithium Ion Battery variant 3 for United States"
+    ],
+    "lithium ion battery|Thailand": [
+      "Lithium Ion Battery variant 1 for Thailand",
+      "Lithium Ion Battery variant 2 for Thailand",
+      "Lithium Ion Battery variant 3 for Thailand"
+    ],
+    "lithium ion battery|Japan": [
+      "Lithium Ion Battery variant 1 for Japan",
+      "Lithium Ion Battery variant 2 for Japan",
+      "Lithium Ion Battery variant 3 for Japan"
+    ],
+    "lithium ion battery|Singapore": [
+      "Lithium Ion Battery variant 1 for Singapore",
+      "Lithium Ion Battery variant 2 for Singapore",
+      "Lithium Ion Battery variant 3 for Singapore"
+    ],
+    "solar panel|United States": [
+      "Solar Panel variant 1 for United States",
+      "Solar Panel variant 2 for United States",
+      "Solar Panel variant 3 for United States"
+    ],
+    "solar panel|Thailand": [
+      "Solar Panel variant 1 for Thailand",
+      "Solar Panel variant 2 for Thailand",
+      "Solar Panel variant 3 for Thailand"
+    ],
+    "solar panel|Japan": [
+      "Solar Panel variant 1 for Japan",
+      "Solar Panel variant 2 for Japan",
+      "Solar Panel variant 3 for Japan"
+    ],
+    "solar panel|Singapore": [
+      "Solar Panel variant 1 for Singapore",
+      "Solar Panel variant 2 for Singapore",
+      "Solar Panel variant 3 for Singapore"
+    ],
+    "mobile phone|United States": [
+      "Mobile Phone variant 1 for United States",
+      "Mobile Phone variant 2 for United States",
+      "Mobile Phone variant 3 for United States"
+    ],
+    "mobile phone|Thailand": [
+      "Mobile Phone variant 1 for Thailand",
+      "Mobile Phone variant 2 for Thailand",
+      "Mobile Phone variant 3 for Thailand"
+    ],
+    "mobile phone|Japan": [
+      "Mobile Phone variant 1 for Japan",
+      "Mobile Phone variant 2 for Japan",
+      "Mobile Phone variant 3 for Japan"
+    ],
+    "mobile phone|Singapore": [
+      "Mobile Phone variant 1 for Singapore",
+      "Mobile Phone variant 2 for Singapore",
+      "Mobile Phone variant 3 for Singapore"
+    ],
+    "laptop computer|United States": [
+      "Laptop Computer variant 1 for United States",
+      "Laptop Computer variant 2 for United States",
+      "Laptop Computer variant 3 for United States"
+    ],
+    "laptop computer|Thailand": [
+      "Laptop Computer variant 1 for Thailand",
+      "Laptop Computer variant 2 for Thailand",
+      "Laptop Computer variant 3 for Thailand"
+    ],
+    "laptop computer|Japan": [
+      "Laptop Computer variant 1 for Japan",
+      "Laptop Computer variant 2 for Japan",
+      "Laptop Computer variant 3 for Japan"
+    ],
+    "laptop computer|Singapore": [
+      "Laptop Computer variant 1 for Singapore",
+      "Laptop Computer variant 2 for Singapore",
+      "Laptop Computer variant 3 for Singapore"
+    ],
+    "plastic chair|United States": [
+      "Plastic Chair variant 1 for United States",
+      "Plastic Chair variant 2 for United States",
+      "Plastic Chair variant 3 for United States"
+    ],
+    "plastic chair|Thailand": [
+      "Plastic Chair variant 1 for Thailand",
+      "Plastic Chair variant 2 for Thailand",
+      "Plastic Chair variant 3 for Thailand"
+    ],
+    "plastic chair|Japan": [
+      "Plastic Chair variant 1 for Japan",
+      "Plastic Chair variant 2 for Japan",
+      "Plastic Chair variant 3 for Japan"
+    ],
+    "plastic chair|Singapore": [
+      "Plastic Chair variant 1 for Singapore",
+      "Plastic Chair variant 2 for Singapore",
+      "Plastic Chair variant 3 for Singapore"
+    ],
+    "men cotton shirt|United States": [
+      "Men Cotton Shirt variant 1 for United States",
+      "Men Cotton Shirt variant 2 for United States",
+      "Men Cotton Shirt variant 3 for United States"
+    ],
+    "men cotton shirt|Thailand": [
+      "Men Cotton Shirt variant 1 for Thailand",
+      "Men Cotton Shirt variant 2 for Thailand",
+      "Men Cotton Shirt variant 3 for Thailand"
+    ],
+    "men cotton shirt|Japan": [
+      "Men Cotton Shirt variant 1 for Japan",
+      "Men Cotton Shirt variant 2 for Japan",
+      "Men Cotton Shirt variant 3 for Japan"
+    ],
+    "men cotton shirt|Singapore": [
+      "Men Cotton Shirt variant 1 for Singapore",
+      "Men Cotton Shirt variant 2 for Singapore",
+      "Men Cotton Shirt variant 3 for Singapore"
+    ],
+    "steel pipe|United States": [
+      "Steel Pipe variant 1 for United States",
+      "Steel Pipe variant 2 for United States",
+      "Steel Pipe variant 3 for United States"
+    ],
+    "steel pipe|Thailand": [
+      "Steel Pipe variant 1 for Thailand",
+      "Steel Pipe variant 2 for Thailand",
+      "Steel Pipe variant 3 for Thailand"
+    ],
+    "steel pipe|Japan": [
+      "Steel Pipe variant 1 for Japan",
+      "Steel Pipe variant 2 for Japan",
+      "Steel Pipe variant 3 for Japan"
+    ],
+    "steel pipe|Singapore": [
+      "Steel Pipe variant 1 for Singapore",
+      "Steel Pipe variant 2 for Singapore",
+      "Steel Pipe variant 3 for Singapore"
+    ],
+    "wheat flour|United States": [
+      "Wheat Flour variant 1 for United States",
+      "Wheat Flour variant 2 for United States",
+      "Wheat Flour variant 3 for United States"
+    ],
+    "wheat flour|Thailand": [
+      "Wheat Flour variant 1 for Thailand",
+      "Wheat Flour variant 2 for Thailand",
+      "Wheat Flour variant 3 for Thailand"
+    ],
+    "wheat flour|Japan": [
+      "Wheat Flour variant 1 for Japan",
+      "Wheat Flour variant 2 for Japan",
+      "Wheat Flour variant 3 for Japan"
+    ],
+    "wheat flour|Singapore": [
+      "Wheat Flour variant 1 for Singapore",
+      "Wheat Flour variant 2 for Singapore",
+      "Wheat Flour variant 3 for Singapore"
+    ],
+    "air conditioner|United States": [
+      "Air Conditioner variant 1 for United States",
+      "Air Conditioner variant 2 for United States",
+      "Air Conditioner variant 3 for United States"
+    ],
+    "air conditioner|Thailand": [
+      "Air Conditioner variant 1 for Thailand",
+      "Air Conditioner variant 2 for Thailand",
+      "Air Conditioner variant 3 for Thailand"
+    ],
+    "air conditioner|Japan": [
+      "Air Conditioner variant 1 for Japan",
+      "Air Conditioner variant 2 for Japan",
+      "Air Conditioner variant 3 for Japan"
+    ],
+    "air conditioner|Singapore": [
+      "Air Conditioner variant 1 for Singapore",
+      "Air Conditioner variant 2 for Singapore",
+      "Air Conditioner variant 3 for Singapore"
+    ],
+    "led bulb|United States": [
+      "Led Bulb variant 1 for United States",
+      "Led Bulb variant 2 for United States",
+      "Led Bulb variant 3 for United States"
+    ],
+    "led bulb|Thailand": [
+      "Led Bulb variant 1 for Thailand",
+      "Led Bulb variant 2 for Thailand",
+      "Led Bulb variant 3 for Thailand"
+    ],
+    "led bulb|Japan": [
+      "Led Bulb variant 1 for Japan",
+      "Led Bulb variant 2 for Japan",
+      "Led Bulb variant 3 for Japan"
+    ],
+    "led bulb|Singapore": [
+      "Led Bulb variant 1 for Singapore",
+      "Led Bulb variant 2 for Singapore",
+      "Led Bulb variant 3 for Singapore"
+    ],
+    "television|United States": [
+      "Television variant 1 for United States",
+      "Television variant 2 for United States",
+      "Television variant 3 for United States"
+    ],
+    "television|Thailand": [
+      "Television variant 1 for Thailand",
+      "Television variant 2 for Thailand",
+      "Television variant 3 for Thailand"
+    ],
+    "television|Japan": [
+      "Television variant 1 for Japan",
+      "Television variant 2 for Japan",
+      "Television variant 3 for Japan"
+    ],
+    "television|Singapore": [
+      "Television variant 1 for Singapore",
+      "Television variant 2 for Singapore",
+      "Television variant 3 for Singapore"
+    ],
+    "refrigerator|United States": [
+      "Refrigerator variant 1 for United States",
+      "Refrigerator variant 2 for United States",
+      "Refrigerator variant 3 for United States"
+    ],
+    "refrigerator|Thailand": [
+      "Refrigerator variant 1 for Thailand",
+      "Refrigerator variant 2 for Thailand",
+      "Refrigerator variant 3 for Thailand"
+    ],
+    "refrigerator|Japan": [
+      "Refrigerator variant 1 for Japan",
+      "Refrigerator variant 2 for Japan",
+      "Refrigerator variant 3 for Japan"
+    ],
+    "refrigerator|Singapore": [
+      "Refrigerator variant 1 for Singapore",
+      "Refrigerator variant 2 for Singapore",
+      "Refrigerator variant 3 for Singapore"
+    ],
+    "tablet computer|United States": [
+      "Tablet Computer variant 1 for United States",
+      "Tablet Computer variant 2 for United States",
+      "Tablet Computer variant 3 for United States"
+    ],
+    "tablet computer|Thailand": [
+      "Tablet Computer variant 1 for Thailand",
+      "Tablet Computer variant 2 for Thailand",
+      "Tablet Computer variant 3 for Thailand"
+    ],
+    "tablet computer|Japan": [
+      "Tablet Computer variant 1 for Japan",
+      "Tablet Computer variant 2 for Japan",
+      "Tablet Computer variant 3 for Japan"
+    ],
+    "tablet computer|Singapore": [
+      "Tablet Computer variant 1 for Singapore",
+      "Tablet Computer variant 2 for Singapore",
+      "Tablet Computer variant 3 for Singapore"
+    ],
+    "motorcycle|United States": [
+      "Motorcycle variant 1 for United States",
+      "Motorcycle variant 2 for United States",
+      "Motorcycle variant 3 for United States"
+    ],
+    "motorcycle|Thailand": [
+      "Motorcycle variant 1 for Thailand",
+      "Motorcycle variant 2 for Thailand",
+      "Motorcycle variant 3 for Thailand"
+    ],
+    "motorcycle|Japan": [
+      "Motorcycle variant 1 for Japan",
+      "Motorcycle variant 2 for Japan",
+      "Motorcycle variant 3 for Japan"
+    ],
+    "motorcycle|Singapore": [
+      "Motorcycle variant 1 for Singapore",
+      "Motorcycle variant 2 for Singapore",
+      "Motorcycle variant 3 for Singapore"
+    ],
+    "car tire|United States": [
+      "Car Tire variant 1 for United States",
+      "Car Tire variant 2 for United States",
+      "Car Tire variant 3 for United States"
+    ],
+    "car tire|Thailand": [
+      "Car Tire variant 1 for Thailand",
+      "Car Tire variant 2 for Thailand",
+      "Car Tire variant 3 for Thailand"
+    ],
+    "car tire|Japan": [
+      "Car Tire variant 1 for Japan",
+      "Car Tire variant 2 for Japan",
+      "Car Tire variant 3 for Japan"
+    ],
+    "car tire|Singapore": [
+      "Car Tire variant 1 for Singapore",
+      "Car Tire variant 2 for Singapore",
+      "Car Tire variant 3 for Singapore"
+    ],
+    "glass bottle|United States": [
+      "Glass Bottle variant 1 for United States",
+      "Glass Bottle variant 2 for United States",
+      "Glass Bottle variant 3 for United States"
+    ],
+    "glass bottle|Thailand": [
+      "Glass Bottle variant 1 for Thailand",
+      "Glass Bottle variant 2 for Thailand",
+      "Glass Bottle variant 3 for Thailand"
+    ],
+    "glass bottle|Japan": [
+      "Glass Bottle variant 1 for Japan",
+      "Glass Bottle variant 2 for Japan",
+      "Glass Bottle variant 3 for Japan"
+    ],
+    "glass bottle|Singapore": [
+      "Glass Bottle variant 1 for Singapore",
+      "Glass Bottle variant 2 for Singapore",
+      "Glass Bottle variant 3 for Singapore"
+    ],
+    "coffee beans|United States": [
+      "Coffee Beans variant 1 for United States",
+      "Coffee Beans variant 2 for United States",
+      "Coffee Beans variant 3 for United States"
+    ],
+    "coffee beans|Thailand": [
+      "Coffee Beans variant 1 for Thailand",
+      "Coffee Beans variant 2 for Thailand",
+      "Coffee Beans variant 3 for Thailand"
+    ],
+    "coffee beans|Japan": [
+      "Coffee Beans variant 1 for Japan",
+      "Coffee Beans variant 2 for Japan",
+      "Coffee Beans variant 3 for Japan"
+    ],
+    "coffee beans|Singapore": [
+      "Coffee Beans variant 1 for Singapore",
+      "Coffee Beans variant 2 for Singapore",
+      "Coffee Beans variant 3 for Singapore"
+    ],
+    "printer|United States": [
+      "Printer variant 1 for United States",
+      "Printer variant 2 for United States",
+      "Printer variant 3 for United States"
+    ],
+    "printer|Thailand": [
+      "Printer variant 1 for Thailand",
+      "Printer variant 2 for Thailand",
+      "Printer variant 3 for Thailand"
+    ],
+    "printer|Japan": [
+      "Printer variant 1 for Japan",
+      "Printer variant 2 for Japan",
+      "Printer variant 3 for Japan"
+    ],
+    "printer|Singapore": [
+      "Printer variant 1 for Singapore",
+      "Printer variant 2 for Singapore",
+      "Printer variant 3 for Singapore"
+    ],
+    "olive oil|United States": [
+      "Olive Oil variant 1 for United States",
+      "Olive Oil variant 2 for United States",
+      "Olive Oil variant 3 for United States"
+    ],
+    "olive oil|Thailand": [
+      "Olive Oil variant 1 for Thailand",
+      "Olive Oil variant 2 for Thailand",
+      "Olive Oil variant 3 for Thailand"
+    ],
+    "olive oil|Japan": [
+      "Olive Oil variant 1 for Japan",
+      "Olive Oil variant 2 for Japan",
+      "Olive Oil variant 3 for Japan"
+    ],
+    "olive oil|Singapore": [
+      "Olive Oil variant 1 for Singapore",
+      "Olive Oil variant 2 for Singapore",
+      "Olive Oil variant 3 for Singapore"
+    ],
+    "bicycle|United States": [
+      "Bicycle variant 1 for United States",
+      "Bicycle variant 2 for United States",
+      "Bicycle variant 3 for United States"
+    ],
+    "bicycle|Thailand": [
+      "Bicycle variant 1 for Thailand",
+      "Bicycle variant 2 for Thailand",
+      "Bicycle variant 3 for Thailand"
+    ],
+    "bicycle|Japan": [
+      "Bicycle variant 1 for Japan",
+      "Bicycle variant 2 for Japan",
+      "Bicycle variant 3 for Japan"
+    ],
+    "bicycle|Singapore": [
+      "Bicycle variant 1 for Singapore",
+      "Bicycle variant 2 for Singapore",
+      "Bicycle variant 3 for Singapore"
+    ],
+    "shampoo|United States": [
+      "Shampoo variant 1 for United States",
+      "Shampoo variant 2 for United States",
+      "Shampoo variant 3 for United States"
+    ],
+    "shampoo|Thailand": [
+      "Shampoo variant 1 for Thailand",
+      "Shampoo variant 2 for Thailand",
+      "Shampoo variant 3 for Thailand"
+    ],
+    "shampoo|Japan": [
+      "Shampoo variant 1 for Japan",
+      "Shampoo variant 2 for Japan",
+      "Shampoo variant 3 for Japan"
+    ],
+    "shampoo|Singapore": [
+      "Shampoo variant 1 for Singapore",
+      "Shampoo variant 2 for Singapore",
+      "Shampoo variant 3 for Singapore"
+    ],
+    "ball pen|United States": [
+      "Ball Pen variant 1 for United States",
+      "Ball Pen variant 2 for United States",
+      "Ball Pen variant 3 for United States"
+    ],
+    "ball pen|Thailand": [
+      "Ball Pen variant 1 for Thailand",
+      "Ball Pen variant 2 for Thailand",
+      "Ball Pen variant 3 for Thailand"
+    ],
+    "ball pen|Japan": [
+      "Ball Pen variant 1 for Japan",
+      "Ball Pen variant 2 for Japan",
+      "Ball Pen variant 3 for Japan"
+    ],
+    "ball pen|Singapore": [
+      "Ball Pen variant 1 for Singapore",
+      "Ball Pen variant 2 for Singapore",
+      "Ball Pen variant 3 for Singapore"
+    ],
+    "cotton bedsheet|United States": [
+      "Cotton Bedsheet variant 1 for United States",
+      "Cotton Bedsheet variant 2 for United States",
+      "Cotton Bedsheet variant 3 for United States"
+    ],
+    "cotton bedsheet|Thailand": [
+      "Cotton Bedsheet variant 1 for Thailand",
+      "Cotton Bedsheet variant 2 for Thailand",
+      "Cotton Bedsheet variant 3 for Thailand"
+    ],
+    "cotton bedsheet|Japan": [
+      "Cotton Bedsheet variant 1 for Japan",
+      "Cotton Bedsheet variant 2 for Japan",
+      "Cotton Bedsheet variant 3 for Japan"
+    ],
+    "cotton bedsheet|Singapore": [
+      "Cotton Bedsheet variant 1 for Singapore",
+      "Cotton Bedsheet variant 2 for Singapore",
+      "Cotton Bedsheet variant 3 for Singapore"
+    ],
+    "electric iron|United States": [
+      "Electric Iron variant 1 for United States",
+      "Electric Iron variant 2 for United States",
+      "Electric Iron variant 3 for United States"
+    ],
+    "electric iron|Thailand": [
+      "Electric Iron variant 1 for Thailand",
+      "Electric Iron variant 2 for Thailand",
+      "Electric Iron variant 3 for Thailand"
+    ],
+    "electric iron|Japan": [
+      "Electric Iron variant 1 for Japan",
+      "Electric Iron variant 2 for Japan",
+      "Electric Iron variant 3 for Japan"
+    ],
+    "electric iron|Singapore": [
+      "Electric Iron variant 1 for Singapore",
+      "Electric Iron variant 2 for Singapore",
+      "Electric Iron variant 3 for Singapore"
+    ],
+    "chocolate bar|United States": [
+      "Chocolate Bar variant 1 for United States",
+      "Chocolate Bar variant 2 for United States",
+      "Chocolate Bar variant 3 for United States"
+    ],
+    "chocolate bar|Thailand": [
+      "Chocolate Bar variant 1 for Thailand",
+      "Chocolate Bar variant 2 for Thailand",
+      "Chocolate Bar variant 3 for Thailand"
+    ],
+    "chocolate bar|Japan": [
+      "Chocolate Bar variant 1 for Japan",
+      "Chocolate Bar variant 2 for Japan",
+      "Chocolate Bar variant 3 for Japan"
+    ],
+    "chocolate bar|Singapore": [
+      "Chocolate Bar variant 1 for Singapore",
+      "Chocolate Bar variant 2 for Singapore",
+      "Chocolate Bar variant 3 for Singapore"
+    ]
+  }
+}

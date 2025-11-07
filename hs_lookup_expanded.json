@@ -1,0 +1,2102 @@
+[
+  {
+    "product": "lithium ion battery",
+    "description": "Lithium Ion Battery variant 1 for United States",
+    "destination": "United States",
+    "hs_code": "95164654",
+    "tariff_percent": 7.2
+  },
+  {
+    "product": "lithium ion battery",
+    "description": "Lithium Ion Battery variant 2 for United States",
+    "destination": "United States",
+    "hs_code": "63367800",
+    "tariff_percent": 6.9
+  },
+  {
+    "product": "lithium ion battery",
+    "description": "Lithium Ion Battery variant 3 for United States",
+    "destination": "United States",
+    "hs_code": "21285366",
+    "tariff_percent": 5.3
+  },
+  {
+    "product": "lithium ion battery",
+    "description": "Lithium Ion Battery variant 1 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "30518377",
+    "tariff_percent": 5.6
+  },
+  {
+    "product": "lithium ion battery",
+    "description": "Lithium Ion Battery variant 2 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "98343387",
+    "tariff_percent": 3.8
+  },
+  {
+    "product": "lithium ion battery",
+    "description": "Lithium Ion Battery variant 3 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "74492478",
+    "tariff_percent": 3.7
+  },
+  {
+    "product": "lithium ion battery",
+    "description": "Lithium Ion Battery variant 1 for Japan",
+    "destination": "Japan",
+    "hs_code": "69287912",
+    "tariff_percent": 1.4
+  },
+  {
+    "product": "lithium ion battery",
+    "description": "Lithium Ion Battery variant 2 for Japan",
+    "destination": "Japan",
+    "hs_code": "75431807",
+    "tariff_percent": 11.7
+  },
+  {
+    "product": "lithium ion battery",
+    "description": "Lithium Ion Battery variant 3 for Japan",
+    "destination": "Japan",
+    "hs_code": "89415481",
+    "tariff_percent": 2.3
+  },
+  {
+    "product": "lithium ion battery",
+    "description": "Lithium Ion Battery variant 1 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "14678563",
+    "tariff_percent": 6.9
+  },
+  {
+    "product": "lithium ion battery",
+    "description": "Lithium Ion Battery variant 2 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "69038439",
+    "tariff_percent": 5.0
+  },
+  {
+    "product": "lithium ion battery",
+    "description": "Lithium Ion Battery variant 3 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "11869087",
+    "tariff_percent": 5.4
+  },
+  {
+    "product": "solar panel",
+    "description": "Solar Panel variant 1 for United States",
+    "destination": "United States",
+    "hs_code": "51154115",
+    "tariff_percent": 2.1
+  },
+  {
+    "product": "solar panel",
+    "description": "Solar Panel variant 2 for United States",
+    "destination": "United States",
+    "hs_code": "10457385",
+    "tariff_percent": 5.5
+  },
+  {
+    "product": "solar panel",
+    "description": "Solar Panel variant 3 for United States",
+    "destination": "United States",
+    "hs_code": "13664089",
+    "tariff_percent": 0.1
+  },
+  {
+    "product": "solar panel",
+    "description": "Solar Panel variant 1 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "90567733",
+    "tariff_percent": 3.2
+  },
+  {
+    "product": "solar panel",
+    "description": "Solar Panel variant 2 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "19631456",
+    "tariff_percent": 11.8
+  },
+  {
+    "product": "solar panel",
+    "description": "Solar Panel variant 3 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "39749855",
+    "tariff_percent": 10.2
+  },
+  {
+    "product": "solar panel",
+    "description": "Solar Panel variant 1 for Japan",
+    "destination": "Japan",
+    "hs_code": "16373234",
+    "tariff_percent": 2.9
+  },
+  {
+    "product": "solar panel",
+    "description": "Solar Panel variant 2 for Japan",
+    "destination": "Japan",
+    "hs_code": "10535402",
+    "tariff_percent": 10.1
+  },
+  {
+    "product": "solar panel",
+    "description": "Solar Panel variant 3 for Japan",
+    "destination": "Japan",
+    "hs_code": "54610806",
+    "tariff_percent": 5.7
+  },
+  {
+    "product": "solar panel",
+    "description": "Solar Panel variant 1 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "14275261",
+    "tariff_percent": 9.2
+  },
+  {
+    "product": "solar panel",
+    "description": "Solar Panel variant 2 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "12154389",
+    "tariff_percent": 5.2
+  },
+  {
+    "product": "solar panel",
+    "description": "Solar Panel variant 3 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "46534003",
+    "tariff_percent": 2.8
+  },
+  {
+    "product": "mobile phone",
+    "description": "Mobile Phone variant 1 for United States",
+    "destination": "United States",
+    "hs_code": "14068887",
+    "tariff_percent": 7.5
+  },
+  {
+    "product": "mobile phone",
+    "description": "Mobile Phone variant 2 for United States",
+    "destination": "United States",
+    "hs_code": "11529202",
+    "tariff_percent": 8.9
+  },
+  {
+    "product": "mobile phone",
+    "description": "Mobile Phone variant 3 for United States",
+    "destination": "United States",
+    "hs_code": "23068019",
+    "tariff_percent": 8.0
+  },
+  {
+    "product": "mobile phone",
+    "description": "Mobile Phone variant 1 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "29920271",
+    "tariff_percent": 11.3
+  },
+  {
+    "product": "mobile phone",
+    "description": "Mobile Phone variant 2 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "12267057",
+    "tariff_percent": 2.1
+  },
+  {
+    "product": "mobile phone",
+    "description": "Mobile Phone variant 3 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "57854694",
+    "tariff_percent": 3.5
+  },
+  {
+    "product": "mobile phone",
+    "description": "Mobile Phone variant 1 for Japan",
+    "destination": "Japan",
+    "hs_code": "12339524",
+    "tariff_percent": 11.0
+  },
+  {
+    "product": "mobile phone",
+    "description": "Mobile Phone variant 2 for Japan",
+    "destination": "Japan",
+    "hs_code": "38941310",
+    "tariff_percent": 9.4
+  },
+  {
+    "product": "mobile phone",
+    "description": "Mobile Phone variant 3 for Japan",
+    "destination": "Japan",
+    "hs_code": "40205110",
+    "tariff_percent": 1.3
+  },
+  {
+    "product": "mobile phone",
+    "description": "Mobile Phone variant 1 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "11555921",
+    "tariff_percent": 4.4
+  },
+  {
+    "product": "mobile phone",
+    "description": "Mobile Phone variant 2 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "10510831",
+    "tariff_percent": 10.8
+  },
+  {
+    "product": "mobile phone",
+    "description": "Mobile Phone variant 3 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "13085485",
+    "tariff_percent": 0.2
+  },
+  {
+    "product": "laptop computer",
+    "description": "Laptop Computer variant 1 for United States",
+    "destination": "United States",
+    "hs_code": "69585635",
+    "tariff_percent": 7.2
+  },
+  {
+    "product": "laptop computer",
+    "description": "Laptop Computer variant 2 for United States",
+    "destination": "United States",
+    "hs_code": "87779445",
+    "tariff_percent": 7.6
+  },
+  {
+    "product": "laptop computer",
+    "description": "Laptop Computer variant 3 for United States",
+    "destination": "United States",
+    "hs_code": "78839134",
+    "tariff_percent": 1.1
+  },
+  {
+    "product": "laptop computer",
+    "description": "Laptop Computer variant 1 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "11433507",
+    "tariff_percent": 0.9
+  },
+  {
+    "product": "laptop computer",
+    "description": "Laptop Computer variant 2 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "14083159",
+    "tariff_percent": 10.3
+  },
+  {
+    "product": "laptop computer",
+    "description": "Laptop Computer variant 3 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "34274799",
+    "tariff_percent": 11.7
+  },
+  {
+    "product": "laptop computer",
+    "description": "Laptop Computer variant 1 for Japan",
+    "destination": "Japan",
+    "hs_code": "28701658",
+    "tariff_percent": 1.9
+  },
+  {
+    "product": "laptop computer",
+    "description": "Laptop Computer variant 2 for Japan",
+    "destination": "Japan",
+    "hs_code": "40556877",
+    "tariff_percent": 3.8
+  },
+  {
+    "product": "laptop computer",
+    "description": "Laptop Computer variant 3 for Japan",
+    "destination": "Japan",
+    "hs_code": "73022964",
+    "tariff_percent": 2.5
+  },
+  {
+    "product": "laptop computer",
+    "description": "Laptop Computer variant 1 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "48163186",
+    "tariff_percent": 5.3
+  },
+  {
+    "product": "laptop computer",
+    "description": "Laptop Computer variant 2 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "68403838",
+    "tariff_percent": 11.2
+  },
+  {
+    "product": "laptop computer",
+    "description": "Laptop Computer variant 3 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "18230874",
+    "tariff_percent": 10.0
+  },
+  {
+    "product": "plastic chair",
+    "description": "Plastic Chair variant 1 for United States",
+    "destination": "United States",
+    "hs_code": "11436301",
+    "tariff_percent": 5.8
+  },
+  {
+    "product": "plastic chair",
+    "description": "Plastic Chair variant 2 for United States",
+    "destination": "United States",
+    "hs_code": "39826621",
+    "tariff_percent": 6.1
+  },
+  {
+    "product": "plastic chair",
+    "description": "Plastic Chair variant 3 for United States",
+    "destination": "United States",
+    "hs_code": "66875439",
+    "tariff_percent": 1.0
+  },
+  {
+    "product": "plastic chair",
+    "description": "Plastic Chair variant 1 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "55161869",
+    "tariff_percent": 10.2
+  },
+  {
+    "product": "plastic chair",
+    "description": "Plastic Chair variant 2 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "82402314",
+    "tariff_percent": 10.9
+  },
+  {
+    "product": "plastic chair",
+    "description": "Plastic Chair variant 3 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "54766146",
+    "tariff_percent": 5.9
+  },
+  {
+    "product": "plastic chair",
+    "description": "Plastic Chair variant 1 for Japan",
+    "destination": "Japan",
+    "hs_code": "10582417",
+    "tariff_percent": 3.7
+  },
+  {
+    "product": "plastic chair",
+    "description": "Plastic Chair variant 2 for Japan",
+    "destination": "Japan",
+    "hs_code": "45943320",
+    "tariff_percent": 5.6
+  },
+  {
+    "product": "plastic chair",
+    "description": "Plastic Chair variant 3 for Japan",
+    "destination": "Japan",
+    "hs_code": "71647450",
+    "tariff_percent": 6.4
+  },
+  {
+    "product": "plastic chair",
+    "description": "Plastic Chair variant 1 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "11396682",
+    "tariff_percent": 3.3
+  },
+  {
+    "product": "plastic chair",
+    "description": "Plastic Chair variant 2 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "11085988",
+    "tariff_percent": 8.5
+  },
+  {
+    "product": "plastic chair",
+    "description": "Plastic Chair variant 3 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "78308058",
+    "tariff_percent": 8.0
+  },
+  {
+    "product": "men cotton shirt",
+    "description": "Men Cotton Shirt variant 1 for United States",
+    "destination": "United States",
+    "hs_code": "14319567",
+    "tariff_percent": 0.8
+  },
+  {
+    "product": "men cotton shirt",
+    "description": "Men Cotton Shirt variant 2 for United States",
+    "destination": "United States",
+    "hs_code": "27225591",
+    "tariff_percent": 9.6
+  },
+  {
+    "product": "men cotton shirt",
+    "description": "Men Cotton Shirt variant 3 for United States",
+    "destination": "United States",
+    "hs_code": "49103893",
+    "tariff_percent": 4.0
+  },
+  {
+    "product": "men cotton shirt",
+    "description": "Men Cotton Shirt variant 1 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "74713943",
+    "tariff_percent": 0.8
+  },
+  {
+    "product": "men cotton shirt",
+    "description": "Men Cotton Shirt variant 2 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "11545502",
+    "tariff_percent": 6.6
+  },
+  {
+    "product": "men cotton shirt",
+    "description": "Men Cotton Shirt variant 3 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "64016630",
+    "tariff_percent": 0.6
+  },
+  {
+    "product": "men cotton shirt",
+    "description": "Men Cotton Shirt variant 1 for Japan",
+    "destination": "Japan",
+    "hs_code": "51297720",
+    "tariff_percent": 3.4
+  },
+  {
+    "product": "men cotton shirt",
+    "description": "Men Cotton Shirt variant 2 for Japan",
+    "destination": "Japan",
+    "hs_code": "13669536",
+    "tariff_percent": 6.5
+  },
+  {
+    "product": "men cotton shirt",
+    "description": "Men Cotton Shirt variant 3 for Japan",
+    "destination": "Japan",
+    "hs_code": "90573532",
+    "tariff_percent": 4.0
+  },
+  {
+    "product": "men cotton shirt",
+    "description": "Men Cotton Shirt variant 1 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "78088274",
+    "tariff_percent": 11.8
+  },
+  {
+    "product": "men cotton shirt",
+    "description": "Men Cotton Shirt variant 2 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "14372526",
+    "tariff_percent": 0.0
+  },
+  {
+    "product": "men cotton shirt",
+    "description": "Men Cotton Shirt variant 3 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "10213368",
+    "tariff_percent": 1.8
+  },
+  {
+    "product": "steel pipe",
+    "description": "Steel Pipe variant 1 for United States",
+    "destination": "United States",
+    "hs_code": "14485160",
+    "tariff_percent": 0.2
+  },
+  {
+    "product": "steel pipe",
+    "description": "Steel Pipe variant 2 for United States",
+    "destination": "United States",
+    "hs_code": "84881337",
+    "tariff_percent": 2.0
+  },
+  {
+    "product": "steel pipe",
+    "description": "Steel Pipe variant 3 for United States",
+    "destination": "United States",
+    "hs_code": "10559681",
+    "tariff_percent": 9.4
+  },
+  {
+    "product": "steel pipe",
+    "description": "Steel Pipe variant 1 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "46515131",
+    "tariff_percent": 2.2
+  },
+  {
+    "product": "steel pipe",
+    "description": "Steel Pipe variant 2 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "89477235",
+    "tariff_percent": 4.5
+  },
+  {
+    "product": "steel pipe",
+    "description": "Steel Pipe variant 3 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "82582537",
+    "tariff_percent": 0.9
+  },
+  {
+    "product": "steel pipe",
+    "description": "Steel Pipe variant 1 for Japan",
+    "destination": "Japan",
+    "hs_code": "11826236",
+    "tariff_percent": 8.3
+  },
+  {
+    "product": "steel pipe",
+    "description": "Steel Pipe variant 2 for Japan",
+    "destination": "Japan",
+    "hs_code": "26245902",
+    "tariff_percent": 6.8
+  },
+  {
+    "product": "steel pipe",
+    "description": "Steel Pipe variant 3 for Japan",
+    "destination": "Japan",
+    "hs_code": "12321993",
+    "tariff_percent": 7.1
+  },
+  {
+    "product": "steel pipe",
+    "description": "Steel Pipe variant 1 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "12519604",
+    "tariff_percent": 8.5
+  },
+  {
+    "product": "steel pipe",
+    "description": "Steel Pipe variant 2 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "33860456",
+    "tariff_percent": 11.5
+  },
+  {
+    "product": "steel pipe",
+    "description": "Steel Pipe variant 3 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "36262476",
+    "tariff_percent": 9.5
+  },
+  {
+    "product": "wheat flour",
+    "description": "Wheat Flour variant 1 for United States",
+    "destination": "United States",
+    "hs_code": "78827182",
+    "tariff_percent": 4.2
+  },
+  {
+    "product": "wheat flour",
+    "description": "Wheat Flour variant 2 for United States",
+    "destination": "United States",
+    "hs_code": "73356563",
+    "tariff_percent": 11.5
+  },
+  {
+    "product": "wheat flour",
+    "description": "Wheat Flour variant 3 for United States",
+    "destination": "United States",
+    "hs_code": "14677679",
+    "tariff_percent": 5.4
+  },
+  {
+    "product": "wheat flour",
+    "description": "Wheat Flour variant 1 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "91736114",
+    "tariff_percent": 9.6
+  },
+  {
+    "product": "wheat flour",
+    "description": "Wheat Flour variant 2 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "12987068",
+    "tariff_percent": 6.2
+  },
+  {
+    "product": "wheat flour",
+    "description": "Wheat Flour variant 3 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "12462263",
+    "tariff_percent": 7.2
+  },
+  {
+    "product": "wheat flour",
+    "description": "Wheat Flour variant 1 for Japan",
+    "destination": "Japan",
+    "hs_code": "88252992",
+    "tariff_percent": 11.7
+  },
+  {
+    "product": "wheat flour",
+    "description": "Wheat Flour variant 2 for Japan",
+    "destination": "Japan",
+    "hs_code": "36581066",
+    "tariff_percent": 0.3
+  },
+  {
+    "product": "wheat flour",
+    "description": "Wheat Flour variant 3 for Japan",
+    "destination": "Japan",
+    "hs_code": "12743753",
+    "tariff_percent": 5.9
+  },
+  {
+    "product": "wheat flour",
+    "description": "Wheat Flour variant 1 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "30678647",
+    "tariff_percent": 7.1
+  },
+  {
+    "product": "wheat flour",
+    "description": "Wheat Flour variant 2 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "56548371",
+    "tariff_percent": 9.0
+  },
+  {
+    "product": "wheat flour",
+    "description": "Wheat Flour variant 3 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "57002797",
+    "tariff_percent": 9.4
+  },
+  {
+    "product": "air conditioner",
+    "description": "Air Conditioner variant 1 for United States",
+    "destination": "United States",
+    "hs_code": "14271080",
+    "tariff_percent": 10.0
+  },
+  {
+    "product": "air conditioner",
+    "description": "Air Conditioner variant 2 for United States",
+    "destination": "United States",
+    "hs_code": "12889898",
+    "tariff_percent": 10.1
+  },
+  {
+    "product": "air conditioner",
+    "description": "Air Conditioner variant 3 for United States",
+    "destination": "United States",
+    "hs_code": "11459600",
+    "tariff_percent": 11.9
+  },
+  {
+    "product": "air conditioner",
+    "description": "Air Conditioner variant 1 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "13097018",
+    "tariff_percent": 10.1
+  },
+  {
+    "product": "air conditioner",
+    "description": "Air Conditioner variant 2 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "28048617",
+    "tariff_percent": 8.5
+  },
+  {
+    "product": "air conditioner",
+    "description": "Air Conditioner variant 3 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "81303579",
+    "tariff_percent": 7.0
+  },
+  {
+    "product": "air conditioner",
+    "description": "Air Conditioner variant 1 for Japan",
+    "destination": "Japan",
+    "hs_code": "41292615",
+    "tariff_percent": 3.1
+  },
+  {
+    "product": "air conditioner",
+    "description": "Air Conditioner variant 2 for Japan",
+    "destination": "Japan",
+    "hs_code": "17792091",
+    "tariff_percent": 10.0
+  },
+  {
+    "product": "air conditioner",
+    "description": "Air Conditioner variant 3 for Japan",
+    "destination": "Japan",
+    "hs_code": "75830625",
+    "tariff_percent": 4.5
+  },
+  {
+    "product": "air conditioner",
+    "description": "Air Conditioner variant 1 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "80954426",
+    "tariff_percent": 4.2
+  },
+  {
+    "product": "air conditioner",
+    "description": "Air Conditioner variant 2 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "11543050",
+    "tariff_percent": 4.5
+  },
+  {
+    "product": "air conditioner",
+    "description": "Air Conditioner variant 3 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "98456682",
+    "tariff_percent": 9.1
+  },
+  {
+    "product": "led bulb",
+    "description": "Led Bulb variant 1 for United States",
+    "destination": "United States",
+    "hs_code": "91211464",
+    "tariff_percent": 0.7
+  },
+  {
+    "product": "led bulb",
+    "description": "Led Bulb variant 2 for United States",
+    "destination": "United States",
+    "hs_code": "11402048",
+    "tariff_percent": 11.5
+  },
+  {
+    "product": "led bulb",
+    "description": "Led Bulb variant 3 for United States",
+    "destination": "United States",
+    "hs_code": "14113307",
+    "tariff_percent": 0.5
+  },
+  {
+    "product": "led bulb",
+    "description": "Led Bulb variant 1 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "18342204",
+    "tariff_percent": 5.2
+  },
+  {
+    "product": "led bulb",
+    "description": "Led Bulb variant 2 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "12461637",
+    "tariff_percent": 10.1
+  },
+  {
+    "product": "led bulb",
+    "description": "Led Bulb variant 3 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "74531844",
+    "tariff_percent": 3.7
+  },
+  {
+    "product": "led bulb",
+    "description": "Led Bulb variant 1 for Japan",
+    "destination": "Japan",
+    "hs_code": "83941974",
+    "tariff_percent": 8.8
+  },
+  {
+    "product": "led bulb",
+    "description": "Led Bulb variant 2 for Japan",
+    "destination": "Japan",
+    "hs_code": "10599212",
+    "tariff_percent": 6.7
+  },
+  {
+    "product": "led bulb",
+    "description": "Led Bulb variant 3 for Japan",
+    "destination": "Japan",
+    "hs_code": "92932130",
+    "tariff_percent": 3.0
+  },
+  {
+    "product": "led bulb",
+    "description": "Led Bulb variant 1 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "32040987",
+    "tariff_percent": 2.6
+  },
+  {
+    "product": "led bulb",
+    "description": "Led Bulb variant 2 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "64730441",
+    "tariff_percent": 3.5
+  },
+  {
+    "product": "led bulb",
+    "description": "Led Bulb variant 3 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "10827924",
+    "tariff_percent": 5.8
+  },
+  {
+    "product": "television",
+    "description": "Television variant 1 for United States",
+    "destination": "United States",
+    "hs_code": "26929031",
+    "tariff_percent": 6.7
+  },
+  {
+    "product": "television",
+    "description": "Television variant 2 for United States",
+    "destination": "United States",
+    "hs_code": "81074309",
+    "tariff_percent": 3.8
+  },
+  {
+    "product": "television",
+    "description": "Television variant 3 for United States",
+    "destination": "United States",
+    "hs_code": "69028200",
+    "tariff_percent": 4.8
+  },
+  {
+    "product": "television",
+    "description": "Television variant 1 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "28209399",
+    "tariff_percent": 2.7
+  },
+  {
+    "product": "television",
+    "description": "Television variant 2 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "62038753",
+    "tariff_percent": 4.7
+  },
+  {
+    "product": "television",
+    "description": "Television variant 3 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "74235893",
+    "tariff_percent": 0.6
+  },
+  {
+    "product": "television",
+    "description": "Television variant 1 for Japan",
+    "destination": "Japan",
+    "hs_code": "11543239",
+    "tariff_percent": 1.2
+  },
+  {
+    "product": "television",
+    "description": "Television variant 2 for Japan",
+    "destination": "Japan",
+    "hs_code": "20115301",
+    "tariff_percent": 1.7
+  },
+  {
+    "product": "television",
+    "description": "Television variant 3 for Japan",
+    "destination": "Japan",
+    "hs_code": "46914241",
+    "tariff_percent": 0.2
+  },
+  {
+    "product": "television",
+    "description": "Television variant 1 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "74383565",
+    "tariff_percent": 4.6
+  },
+  {
+    "product": "television",
+    "description": "Television variant 2 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "58505969",
+    "tariff_percent": 1.6
+  },
+  {
+    "product": "television",
+    "description": "Television variant 3 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "96357359",
+    "tariff_percent": 3.2
+  },
+  {
+    "product": "refrigerator",
+    "description": "Refrigerator variant 1 for United States",
+    "destination": "United States",
+    "hs_code": "11509120",
+    "tariff_percent": 7.7
+  },
+  {
+    "product": "refrigerator",
+    "description": "Refrigerator variant 2 for United States",
+    "destination": "United States",
+    "hs_code": "13638828",
+    "tariff_percent": 4.8
+  },
+  {
+    "product": "refrigerator",
+    "description": "Refrigerator variant 3 for United States",
+    "destination": "United States",
+    "hs_code": "72052920",
+    "tariff_percent": 2.8
+  },
+  {
+    "product": "refrigerator",
+    "description": "Refrigerator variant 1 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "91095617",
+    "tariff_percent": 10.3
+  },
+  {
+    "product": "refrigerator",
+    "description": "Refrigerator variant 2 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "24169558",
+    "tariff_percent": 5.8
+  },
+  {
+    "product": "refrigerator",
+    "description": "Refrigerator variant 3 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "41369465",
+    "tariff_percent": 10.8
+  },
+  {
+    "product": "refrigerator",
+    "description": "Refrigerator variant 1 for Japan",
+    "destination": "Japan",
+    "hs_code": "10526604",
+    "tariff_percent": 7.7
+  },
+  {
+    "product": "refrigerator",
+    "description": "Refrigerator variant 2 for Japan",
+    "destination": "Japan",
+    "hs_code": "13379850",
+    "tariff_percent": 8.2
+  },
+  {
+    "product": "refrigerator",
+    "description": "Refrigerator variant 3 for Japan",
+    "destination": "Japan",
+    "hs_code": "10437412",
+    "tariff_percent": 11.4
+  },
+  {
+    "product": "refrigerator",
+    "description": "Refrigerator variant 1 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "66925177",
+    "tariff_percent": 5.1
+  },
+  {
+    "product": "refrigerator",
+    "description": "Refrigerator variant 2 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "10589542",
+    "tariff_percent": 3.0
+  },
+  {
+    "product": "refrigerator",
+    "description": "Refrigerator variant 3 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "95159353",
+    "tariff_percent": 3.1
+  },
+  {
+    "product": "tablet computer",
+    "description": "Tablet Computer variant 1 for United States",
+    "destination": "United States",
+    "hs_code": "84899751",
+    "tariff_percent": 2.1
+  },
+  {
+    "product": "tablet computer",
+    "description": "Tablet Computer variant 2 for United States",
+    "destination": "United States",
+    "hs_code": "13277081",
+    "tariff_percent": 10.7
+  },
+  {
+    "product": "tablet computer",
+    "description": "Tablet Computer variant 3 for United States",
+    "destination": "United States",
+    "hs_code": "75478471",
+    "tariff_percent": 0.7
+  },
+  {
+    "product": "tablet computer",
+    "description": "Tablet Computer variant 1 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "53657112",
+    "tariff_percent": 9.3
+  },
+  {
+    "product": "tablet computer",
+    "description": "Tablet Computer variant 2 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "12662946",
+    "tariff_percent": 7.0
+  },
+  {
+    "product": "tablet computer",
+    "description": "Tablet Computer variant 3 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "10519670",
+    "tariff_percent": 8.1
+  },
+  {
+    "product": "tablet computer",
+    "description": "Tablet Computer variant 1 for Japan",
+    "destination": "Japan",
+    "hs_code": "44121563",
+    "tariff_percent": 11.5
+  },
+  {
+    "product": "tablet computer",
+    "description": "Tablet Computer variant 2 for Japan",
+    "destination": "Japan",
+    "hs_code": "29399939",
+    "tariff_percent": 2.9
+  },
+  {
+    "product": "tablet computer",
+    "description": "Tablet Computer variant 3 for Japan",
+    "destination": "Japan",
+    "hs_code": "10513492",
+    "tariff_percent": 11.6
+  },
+  {
+    "product": "tablet computer",
+    "description": "Tablet Computer variant 1 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "34384429",
+    "tariff_percent": 7.0
+  },
+  {
+    "product": "tablet computer",
+    "description": "Tablet Computer variant 2 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "37165621",
+    "tariff_percent": 2.8
+  },
+  {
+    "product": "tablet computer",
+    "description": "Tablet Computer variant 3 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "92821609",
+    "tariff_percent": 5.6
+  },
+  {
+    "product": "motorcycle",
+    "description": "Motorcycle variant 1 for United States",
+    "destination": "United States",
+    "hs_code": "56144539",
+    "tariff_percent": 2.9
+  },
+  {
+    "product": "motorcycle",
+    "description": "Motorcycle variant 2 for United States",
+    "destination": "United States",
+    "hs_code": "27065551",
+    "tariff_percent": 11.1
+  },
+  {
+    "product": "motorcycle",
+    "description": "Motorcycle variant 3 for United States",
+    "destination": "United States",
+    "hs_code": "13294622",
+    "tariff_percent": 0.3
+  },
+  {
+    "product": "motorcycle",
+    "description": "Motorcycle variant 1 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "10524448",
+    "tariff_percent": 11.3
+  },
+  {
+    "product": "motorcycle",
+    "description": "Motorcycle variant 2 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "28099607",
+    "tariff_percent": 8.5
+  },
+  {
+    "product": "motorcycle",
+    "description": "Motorcycle variant 3 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "19322976",
+    "tariff_percent": 6.7
+  },
+  {
+    "product": "motorcycle",
+    "description": "Motorcycle variant 1 for Japan",
+    "destination": "Japan",
+    "hs_code": "13604351",
+    "tariff_percent": 11.3
+  },
+  {
+    "product": "motorcycle",
+    "description": "Motorcycle variant 2 for Japan",
+    "destination": "Japan",
+    "hs_code": "57539397",
+    "tariff_percent": 2.2
+  },
+  {
+    "product": "motorcycle",
+    "description": "Motorcycle variant 3 for Japan",
+    "destination": "Japan",
+    "hs_code": "13520926",
+    "tariff_percent": 9.6
+  },
+  {
+    "product": "motorcycle",
+    "description": "Motorcycle variant 1 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "13305388",
+    "tariff_percent": 7.7
+  },
+  {
+    "product": "motorcycle",
+    "description": "Motorcycle variant 2 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "74389489",
+    "tariff_percent": 3.8
+  },
+  {
+    "product": "motorcycle",
+    "description": "Motorcycle variant 3 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "87376250",
+    "tariff_percent": 6.5
+  },
+  {
+    "product": "car tire",
+    "description": "Car Tire variant 1 for United States",
+    "destination": "United States",
+    "hs_code": "34704628",
+    "tariff_percent": 8.3
+  },
+  {
+    "product": "car tire",
+    "description": "Car Tire variant 2 for United States",
+    "destination": "United States",
+    "hs_code": "35360514",
+    "tariff_percent": 5.9
+  },
+  {
+    "product": "car tire",
+    "description": "Car Tire variant 3 for United States",
+    "destination": "United States",
+    "hs_code": "13236901",
+    "tariff_percent": 0.5
+  },
+  {
+    "product": "car tire",
+    "description": "Car Tire variant 1 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "42969895",
+    "tariff_percent": 11.9
+  },
+  {
+    "product": "car tire",
+    "description": "Car Tire variant 2 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "78738559",
+    "tariff_percent": 0.2
+  },
+  {
+    "product": "car tire",
+    "description": "Car Tire variant 3 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "14434781",
+    "tariff_percent": 11.6
+  },
+  {
+    "product": "car tire",
+    "description": "Car Tire variant 1 for Japan",
+    "destination": "Japan",
+    "hs_code": "28846282",
+    "tariff_percent": 2.0
+  },
+  {
+    "product": "car tire",
+    "description": "Car Tire variant 2 for Japan",
+    "destination": "Japan",
+    "hs_code": "44986564",
+    "tariff_percent": 6.2
+  },
+  {
+    "product": "car tire",
+    "description": "Car Tire variant 3 for Japan",
+    "destination": "Japan",
+    "hs_code": "12740888",
+    "tariff_percent": 10.6
+  },
+  {
+    "product": "car tire",
+    "description": "Car Tire variant 1 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "84531979",
+    "tariff_percent": 0.1
+  },
+  {
+    "product": "car tire",
+    "description": "Car Tire variant 2 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "61798988",
+    "tariff_percent": 8.9
+  },
+  {
+    "product": "car tire",
+    "description": "Car Tire variant 3 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "57430639",
+    "tariff_percent": 10.8
+  },
+  {
+    "product": "glass bottle",
+    "description": "Glass Bottle variant 1 for United States",
+    "destination": "United States",
+    "hs_code": "81012859",
+    "tariff_percent": 6.8
+  },
+  {
+    "product": "glass bottle",
+    "description": "Glass Bottle variant 2 for United States",
+    "destination": "United States",
+    "hs_code": "14320428",
+    "tariff_percent": 0.8
+  },
+  {
+    "product": "glass bottle",
+    "description": "Glass Bottle variant 3 for United States",
+    "destination": "United States",
+    "hs_code": "16912111",
+    "tariff_percent": 5.0
+  },
+  {
+    "product": "glass bottle",
+    "description": "Glass Bottle variant 1 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "35682418",
+    "tariff_percent": 5.1
+  },
+  {
+    "product": "glass bottle",
+    "description": "Glass Bottle variant 2 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "86086002",
+    "tariff_percent": 8.0
+  },
+  {
+    "product": "glass bottle",
+    "description": "Glass Bottle variant 3 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "15538461",
+    "tariff_percent": 3.1
+  },
+  {
+    "product": "glass bottle",
+    "description": "Glass Bottle variant 1 for Japan",
+    "destination": "Japan",
+    "hs_code": "37521258",
+    "tariff_percent": 0.1
+  },
+  {
+    "product": "glass bottle",
+    "description": "Glass Bottle variant 2 for Japan",
+    "destination": "Japan",
+    "hs_code": "97144628",
+    "tariff_percent": 6.8
+  },
+  {
+    "product": "glass bottle",
+    "description": "Glass Bottle variant 3 for Japan",
+    "destination": "Japan",
+    "hs_code": "76560722",
+    "tariff_percent": 7.0
+  },
+  {
+    "product": "glass bottle",
+    "description": "Glass Bottle variant 1 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "21021456",
+    "tariff_percent": 4.0
+  },
+  {
+    "product": "glass bottle",
+    "description": "Glass Bottle variant 2 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "58530356",
+    "tariff_percent": 4.7
+  },
+  {
+    "product": "glass bottle",
+    "description": "Glass Bottle variant 3 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "11391351",
+    "tariff_percent": 6.0
+  },
+  {
+    "product": "coffee beans",
+    "description": "Coffee Beans variant 1 for United States",
+    "destination": "United States",
+    "hs_code": "22927274",
+    "tariff_percent": 0.2
+  },
+  {
+    "product": "coffee beans",
+    "description": "Coffee Beans variant 2 for United States",
+    "destination": "United States",
+    "hs_code": "24505925",
+    "tariff_percent": 2.2
+  },
+  {
+    "product": "coffee beans",
+    "description": "Coffee Beans variant 3 for United States",
+    "destination": "United States",
+    "hs_code": "38001268",
+    "tariff_percent": 7.7
+  },
+  {
+    "product": "coffee beans",
+    "description": "Coffee Beans variant 1 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "27337147",
+    "tariff_percent": 10.0
+  },
+  {
+    "product": "coffee beans",
+    "description": "Coffee Beans variant 2 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "58768469",
+    "tariff_percent": 10.4
+  },
+  {
+    "product": "coffee beans",
+    "description": "Coffee Beans variant 3 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "63892893",
+    "tariff_percent": 11.0
+  },
+  {
+    "product": "coffee beans",
+    "description": "Coffee Beans variant 1 for Japan",
+    "destination": "Japan",
+    "hs_code": "48719530",
+    "tariff_percent": 10.5
+  },
+  {
+    "product": "coffee beans",
+    "description": "Coffee Beans variant 2 for Japan",
+    "destination": "Japan",
+    "hs_code": "11026683",
+    "tariff_percent": 0.6
+  },
+  {
+    "product": "coffee beans",
+    "description": "Coffee Beans variant 3 for Japan",
+    "destination": "Japan",
+    "hs_code": "11335231",
+    "tariff_percent": 3.9
+  },
+  {
+    "product": "coffee beans",
+    "description": "Coffee Beans variant 1 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "10136995",
+    "tariff_percent": 8.1
+  },
+  {
+    "product": "coffee beans",
+    "description": "Coffee Beans variant 2 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "11479156",
+    "tariff_percent": 11.7
+  },
+  {
+    "product": "coffee beans",
+    "description": "Coffee Beans variant 3 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "14092027",
+    "tariff_percent": 5.3
+  },
+  {
+    "product": "printer",
+    "description": "Printer variant 1 for United States",
+    "destination": "United States",
+    "hs_code": "90975840",
+    "tariff_percent": 11.3
+  },
+  {
+    "product": "printer",
+    "description": "Printer variant 2 for United States",
+    "destination": "United States",
+    "hs_code": "59643158",
+    "tariff_percent": 11.7
+  },
+  {
+    "product": "printer",
+    "description": "Printer variant 3 for United States",
+    "destination": "United States",
+    "hs_code": "10668761",
+    "tariff_percent": 8.2
+  },
+  {
+    "product": "printer",
+    "description": "Printer variant 1 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "12374809",
+    "tariff_percent": 4.0
+  },
+  {
+    "product": "printer",
+    "description": "Printer variant 2 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "11238594",
+    "tariff_percent": 9.9
+  },
+  {
+    "product": "printer",
+    "description": "Printer variant 3 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "12428668",
+    "tariff_percent": 8.4
+  },
+  {
+    "product": "printer",
+    "description": "Printer variant 1 for Japan",
+    "destination": "Japan",
+    "hs_code": "14259277",
+    "tariff_percent": 11.2
+  },
+  {
+    "product": "printer",
+    "description": "Printer variant 2 for Japan",
+    "destination": "Japan",
+    "hs_code": "38843206",
+    "tariff_percent": 10.9
+  },
+  {
+    "product": "printer",
+    "description": "Printer variant 3 for Japan",
+    "destination": "Japan",
+    "hs_code": "10875258",
+    "tariff_percent": 9.3
+  },
+  {
+    "product": "printer",
+    "description": "Printer variant 1 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "69955556",
+    "tariff_percent": 0.1
+  },
+  {
+    "product": "printer",
+    "description": "Printer variant 2 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "11018482",
+    "tariff_percent": 4.5
+  },
+  {
+    "product": "printer",
+    "description": "Printer variant 3 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "98292863",
+    "tariff_percent": 9.5
+  },
+  {
+    "product": "olive oil",
+    "description": "Olive Oil variant 1 for United States",
+    "destination": "United States",
+    "hs_code": "70320085",
+    "tariff_percent": 9.7
+  },
+  {
+    "product": "olive oil",
+    "description": "Olive Oil variant 2 for United States",
+    "destination": "United States",
+    "hs_code": "11966667",
+    "tariff_percent": 7.2
+  },
+  {
+    "product": "olive oil",
+    "description": "Olive Oil variant 3 for United States",
+    "destination": "United States",
+    "hs_code": "13262386",
+    "tariff_percent": 10.2
+  },
+  {
+    "product": "olive oil",
+    "description": "Olive Oil variant 1 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "37833626",
+    "tariff_percent": 10.8
+  },
+  {
+    "product": "olive oil",
+    "description": "Olive Oil variant 2 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "10237246",
+    "tariff_percent": 0.7
+  },
+  {
+    "product": "olive oil",
+    "description": "Olive Oil variant 3 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "32217259",
+    "tariff_percent": 11.7
+  },
+  {
+    "product": "olive oil",
+    "description": "Olive Oil variant 1 for Japan",
+    "destination": "Japan",
+    "hs_code": "11373131",
+    "tariff_percent": 6.3
+  },
+  {
+    "product": "olive oil",
+    "description": "Olive Oil variant 2 for Japan",
+    "destination": "Japan",
+    "hs_code": "11487103",
+    "tariff_percent": 0.8
+  },
+  {
+    "product": "olive oil",
+    "description": "Olive Oil variant 3 for Japan",
+    "destination": "Japan",
+    "hs_code": "83129798",
+    "tariff_percent": 4.2
+  },
+  {
+    "product": "olive oil",
+    "description": "Olive Oil variant 1 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "62346783",
+    "tariff_percent": 5.6
+  },
+  {
+    "product": "olive oil",
+    "description": "Olive Oil variant 2 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "52053720",
+    "tariff_percent": 0.7
+  },
+  {
+    "product": "olive oil",
+    "description": "Olive Oil variant 3 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "34053195",
+    "tariff_percent": 7.0
+  },
+  {
+    "product": "bicycle",
+    "description": "Bicycle variant 1 for United States",
+    "destination": "United States",
+    "hs_code": "14549763",
+    "tariff_percent": 2.1
+  },
+  {
+    "product": "bicycle",
+    "description": "Bicycle variant 2 for United States",
+    "destination": "United States",
+    "hs_code": "12994643",
+    "tariff_percent": 6.5
+  },
+  {
+    "product": "bicycle",
+    "description": "Bicycle variant 3 for United States",
+    "destination": "United States",
+    "hs_code": "83203571",
+    "tariff_percent": 11.7
+  },
+  {
+    "product": "bicycle",
+    "description": "Bicycle variant 1 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "10620476",
+    "tariff_percent": 7.4
+  },
+  {
+    "product": "bicycle",
+    "description": "Bicycle variant 2 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "10649927",
+    "tariff_percent": 12.0
+  },
+  {
+    "product": "bicycle",
+    "description": "Bicycle variant 3 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "11243153",
+    "tariff_percent": 11.0
+  },
+  {
+    "product": "bicycle",
+    "description": "Bicycle variant 1 for Japan",
+    "destination": "Japan",
+    "hs_code": "10619464",
+    "tariff_percent": 3.3
+  },
+  {
+    "product": "bicycle",
+    "description": "Bicycle variant 2 for Japan",
+    "destination": "Japan",
+    "hs_code": "10629864",
+    "tariff_percent": 5.3
+  },
+  {
+    "product": "bicycle",
+    "description": "Bicycle variant 3 for Japan",
+    "destination": "Japan",
+    "hs_code": "62479705",
+    "tariff_percent": 4.9
+  },
+  {
+    "product": "bicycle",
+    "description": "Bicycle variant 1 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "72124288",
+    "tariff_percent": 5.9
+  },
+  {
+    "product": "bicycle",
+    "description": "Bicycle variant 2 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "10649085",
+    "tariff_percent": 11.8
+  },
+  {
+    "product": "bicycle",
+    "description": "Bicycle variant 3 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "52252571",
+    "tariff_percent": 0.3
+  },
+  {
+    "product": "shampoo",
+    "description": "Shampoo variant 1 for United States",
+    "destination": "United States",
+    "hs_code": "69937159",
+    "tariff_percent": 1.3
+  },
+  {
+    "product": "shampoo",
+    "description": "Shampoo variant 2 for United States",
+    "destination": "United States",
+    "hs_code": "13622399",
+    "tariff_percent": 11.5
+  },
+  {
+    "product": "shampoo",
+    "description": "Shampoo variant 3 for United States",
+    "destination": "United States",
+    "hs_code": "92930437",
+    "tariff_percent": 7.8
+  },
+  {
+    "product": "shampoo",
+    "description": "Shampoo variant 1 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "14104364",
+    "tariff_percent": 8.6
+  },
+  {
+    "product": "shampoo",
+    "description": "Shampoo variant 2 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "88104040",
+    "tariff_percent": 0.7
+  },
+  {
+    "product": "shampoo",
+    "description": "Shampoo variant 3 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "28570089",
+    "tariff_percent": 4.1
+  },
+  {
+    "product": "shampoo",
+    "description": "Shampoo variant 1 for Japan",
+    "destination": "Japan",
+    "hs_code": "83831247",
+    "tariff_percent": 11.5
+  },
+  {
+    "product": "shampoo",
+    "description": "Shampoo variant 2 for Japan",
+    "destination": "Japan",
+    "hs_code": "42008753",
+    "tariff_percent": 12.0
+  },
+  {
+    "product": "shampoo",
+    "description": "Shampoo variant 3 for Japan",
+    "destination": "Japan",
+    "hs_code": "11225455",
+    "tariff_percent": 2.8
+  },
+  {
+    "product": "shampoo",
+    "description": "Shampoo variant 1 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "64436492",
+    "tariff_percent": 0.3
+  },
+  {
+    "product": "shampoo",
+    "description": "Shampoo variant 2 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "14522489",
+    "tariff_percent": 11.5
+  },
+  {
+    "product": "shampoo",
+    "description": "Shampoo variant 3 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "21763369",
+    "tariff_percent": 5.9
+  },
+  {
+    "product": "ball pen",
+    "description": "Ball Pen variant 1 for United States",
+    "destination": "United States",
+    "hs_code": "41059606",
+    "tariff_percent": 5.1
+  },
+  {
+    "product": "ball pen",
+    "description": "Ball Pen variant 2 for United States",
+    "destination": "United States",
+    "hs_code": "52763521",
+    "tariff_percent": 6.3
+  },
+  {
+    "product": "ball pen",
+    "description": "Ball Pen variant 3 for United States",
+    "destination": "United States",
+    "hs_code": "13723946",
+    "tariff_percent": 5.4
+  },
+  {
+    "product": "ball pen",
+    "description": "Ball Pen variant 1 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "78092119",
+    "tariff_percent": 7.8
+  },
+  {
+    "product": "ball pen",
+    "description": "Ball Pen variant 2 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "98667070",
+    "tariff_percent": 11.6
+  },
+  {
+    "product": "ball pen",
+    "description": "Ball Pen variant 3 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "50405659",
+    "tariff_percent": 10.6
+  },
+  {
+    "product": "ball pen",
+    "description": "Ball Pen variant 1 for Japan",
+    "destination": "Japan",
+    "hs_code": "78167498",
+    "tariff_percent": 11.2
+  },
+  {
+    "product": "ball pen",
+    "description": "Ball Pen variant 2 for Japan",
+    "destination": "Japan",
+    "hs_code": "17083331",
+    "tariff_percent": 5.4
+  },
+  {
+    "product": "ball pen",
+    "description": "Ball Pen variant 3 for Japan",
+    "destination": "Japan",
+    "hs_code": "30737628",
+    "tariff_percent": 8.2
+  },
+  {
+    "product": "ball pen",
+    "description": "Ball Pen variant 1 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "63679528",
+    "tariff_percent": 8.6
+  },
+  {
+    "product": "ball pen",
+    "description": "Ball Pen variant 2 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "74317887",
+    "tariff_percent": 0.3
+  },
+  {
+    "product": "ball pen",
+    "description": "Ball Pen variant 3 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "53163904",
+    "tariff_percent": 0.0
+  },
+  {
+    "product": "cotton bedsheet",
+    "description": "Cotton Bedsheet variant 1 for United States",
+    "destination": "United States",
+    "hs_code": "12779055",
+    "tariff_percent": 1.4
+  },
+  {
+    "product": "cotton bedsheet",
+    "description": "Cotton Bedsheet variant 2 for United States",
+    "destination": "United States",
+    "hs_code": "34617512",
+    "tariff_percent": 0.2
+  },
+  {
+    "product": "cotton bedsheet",
+    "description": "Cotton Bedsheet variant 3 for United States",
+    "destination": "United States",
+    "hs_code": "61732169",
+    "tariff_percent": 7.9
+  },
+  {
+    "product": "cotton bedsheet",
+    "description": "Cotton Bedsheet variant 1 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "62739694",
+    "tariff_percent": 10.4
+  },
+  {
+    "product": "cotton bedsheet",
+    "description": "Cotton Bedsheet variant 2 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "11436723",
+    "tariff_percent": 1.5
+  },
+  {
+    "product": "cotton bedsheet",
+    "description": "Cotton Bedsheet variant 3 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "86583967",
+    "tariff_percent": 2.4
+  },
+  {
+    "product": "cotton bedsheet",
+    "description": "Cotton Bedsheet variant 1 for Japan",
+    "destination": "Japan",
+    "hs_code": "11541048",
+    "tariff_percent": 4.9
+  },
+  {
+    "product": "cotton bedsheet",
+    "description": "Cotton Bedsheet variant 2 for Japan",
+    "destination": "Japan",
+    "hs_code": "54096859",
+    "tariff_percent": 10.3
+  },
+  {
+    "product": "cotton bedsheet",
+    "description": "Cotton Bedsheet variant 3 for Japan",
+    "destination": "Japan",
+    "hs_code": "33814868",
+    "tariff_percent": 11.9
+  },
+  {
+    "product": "cotton bedsheet",
+    "description": "Cotton Bedsheet variant 1 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "44033581",
+    "tariff_percent": 8.4
+  },
+  {
+    "product": "cotton bedsheet",
+    "description": "Cotton Bedsheet variant 2 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "91733659",
+    "tariff_percent": 6.8
+  },
+  {
+    "product": "cotton bedsheet",
+    "description": "Cotton Bedsheet variant 3 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "75902629",
+    "tariff_percent": 10.2
+  },
+  {
+    "product": "electric iron",
+    "description": "Electric Iron variant 1 for United States",
+    "destination": "United States",
+    "hs_code": "23562934",
+    "tariff_percent": 9.9
+  },
+  {
+    "product": "electric iron",
+    "description": "Electric Iron variant 2 for United States",
+    "destination": "United States",
+    "hs_code": "10288828",
+    "tariff_percent": 9.7
+  },
+  {
+    "product": "electric iron",
+    "description": "Electric Iron variant 3 for United States",
+    "destination": "United States",
+    "hs_code": "14129251",
+    "tariff_percent": 9.4
+  },
+  {
+    "product": "electric iron",
+    "description": "Electric Iron variant 1 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "78828839",
+    "tariff_percent": 10.3
+  },
+  {
+    "product": "electric iron",
+    "description": "Electric Iron variant 2 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "76909495",
+    "tariff_percent": 10.7
+  },
+  {
+    "product": "electric iron",
+    "description": "Electric Iron variant 3 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "52157498",
+    "tariff_percent": 4.2
+  },
+  {
+    "product": "electric iron",
+    "description": "Electric Iron variant 1 for Japan",
+    "destination": "Japan",
+    "hs_code": "68561698",
+    "tariff_percent": 8.4
+  },
+  {
+    "product": "electric iron",
+    "description": "Electric Iron variant 2 for Japan",
+    "destination": "Japan",
+    "hs_code": "11156187",
+    "tariff_percent": 5.8
+  },
+  {
+    "product": "electric iron",
+    "description": "Electric Iron variant 3 for Japan",
+    "destination": "Japan",
+    "hs_code": "10703478",
+    "tariff_percent": 1.1
+  },
+  {
+    "product": "electric iron",
+    "description": "Electric Iron variant 1 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "21108676",
+    "tariff_percent": 6.3
+  },
+  {
+    "product": "electric iron",
+    "description": "Electric Iron variant 2 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "88851756",
+    "tariff_percent": 7.1
+  },
+  {
+    "product": "electric iron",
+    "description": "Electric Iron variant 3 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "13637895",
+    "tariff_percent": 4.4
+  },
+  {
+    "product": "chocolate bar",
+    "description": "Chocolate Bar variant 1 for United States",
+    "destination": "United States",
+    "hs_code": "58112115",
+    "tariff_percent": 10.5
+  },
+  {
+    "product": "chocolate bar",
+    "description": "Chocolate Bar variant 2 for United States",
+    "destination": "United States",
+    "hs_code": "11853735",
+    "tariff_percent": 5.0
+  },
+  {
+    "product": "chocolate bar",
+    "description": "Chocolate Bar variant 3 for United States",
+    "destination": "United States",
+    "hs_code": "12996752",
+    "tariff_percent": 11.4
+  },
+  {
+    "product": "chocolate bar",
+    "description": "Chocolate Bar variant 1 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "11826535",
+    "tariff_percent": 7.9
+  },
+  {
+    "product": "chocolate bar",
+    "description": "Chocolate Bar variant 2 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "33372572",
+    "tariff_percent": 10.9
+  },
+  {
+    "product": "chocolate bar",
+    "description": "Chocolate Bar variant 3 for Thailand",
+    "destination": "Thailand",
+    "hs_code": "36492751",
+    "tariff_percent": 0.1
+  },
+  {
+    "product": "chocolate bar",
+    "description": "Chocolate Bar variant 1 for Japan",
+    "destination": "Japan",
+    "hs_code": "12721892",
+    "tariff_percent": 10.5
+  },
+  {
+    "product": "chocolate bar",
+    "description": "Chocolate Bar variant 2 for Japan",
+    "destination": "Japan",
+    "hs_code": "10869285",
+    "tariff_percent": 4.3
+  },
+  {
+    "product": "chocolate bar",
+    "description": "Chocolate Bar variant 3 for Japan",
+    "destination": "Japan",
+    "hs_code": "17858641",
+    "tariff_percent": 6.1
+  },
+  {
+    "product": "chocolate bar",
+    "description": "Chocolate Bar variant 1 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "13452739",
+    "tariff_percent": 10.6
+  },
+  {
+    "product": "chocolate bar",
+    "description": "Chocolate Bar variant 2 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "74621355",
+    "tariff_percent": 2.4
+  },
+  {
+    "product": "chocolate bar",
+    "description": "Chocolate Bar variant 3 for Singapore",
+    "destination": "Singapore",
+    "hs_code": "50249534",
+    "tariff_percent": 2.2
+  }
+]

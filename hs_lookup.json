@@ -1,0 +1,152 @@
+[
+  {
+    "product": "lithium ion battery",
+    "hs_code": "85076000",
+    "description": "Lithium-ion accumulators",
+    "tariff_percent": 3.4
+  },
+  {
+    "product": "solar panel",
+    "hs_code": "85414020",
+    "description": "Photosensitive semiconductor devices, including solar cells",
+    "tariff_percent": 2.5
+  },
+  {
+    "product": "mobile phone",
+    "hs_code": "85171200",
+    "description": "Telephones for cellular networks",
+    "tariff_percent": 0.0
+  },
+  {
+    "product": "laptop computer",
+    "hs_code": "84713010",
+    "description": "Portable digital automatic data processing machines",
+    "tariff_percent": 0.0
+  },
+  {
+    "product": "plastic chair",
+    "hs_code": "94037000",
+    "description": "Furniture of plastics",
+    "tariff_percent": 5.0
+  },
+  {
+    "product": "men cotton shirt",
+    "hs_code": "62052000",
+    "description": "Men's or boys' shirts of cotton",
+    "tariff_percent": 11.5
+  },
+  {
+    "product": "steel pipe",
+    "hs_code": "73063000",
+    "description": "Other tubes and pipes, welded, of circular cross-section, of iron or non-alloy steel",
+    "tariff_percent": 5.7
+  },
+  {
+    "product": "wheat flour",
+    "hs_code": "11010000",
+    "description": "Wheat or meslin flour",
+    "tariff_percent": 0.5
+  },
+  {
+    "product": "air conditioner",
+    "hs_code": "84151010",
+    "description": "Window or wall types, self-contained",
+    "tariff_percent": 8.0
+  },
+  {
+    "product": "led bulb",
+    "hs_code": "85395000",
+    "description": "Light-emitting diode (LED) lamps",
+    "tariff_percent": 2.0
+  },
+  {
+    "product": "television",
+    "hs_code": "85287240",
+    "description": "Reception apparatus for television, incorporating video display",
+    "tariff_percent": 3.2
+  },
+  {
+    "product": "refrigerator",
+    "hs_code": "84181000",
+    "description": "Combined refrigerator-freezers, fitted with separate external doors",
+    "tariff_percent": 7.5
+  },
+  {
+    "product": "tablet computer",
+    "hs_code": "84713090",
+    "description": "Other portable digital automatic data processing machines",
+    "tariff_percent": 0.0
+  },
+  {
+    "product": "motorcycle",
+    "hs_code": "87112000",
+    "description": "Motorcycles with reciprocating internal combustion piston engine of a cylinder capacity exceeding 50 cc but not exceeding 250 cc",
+    "tariff_percent": 6.0
+  },
+  {
+    "product": "car tire",
+    "hs_code": "40111010",
+    "description": "New pneumatic tyres, of rubber, of a kind used on motor cars",
+    "tariff_percent": 4.5
+  },
+  {
+    "product": "glass bottle",
+    "hs_code": "70109090",
+    "description": "Other bottles, flasks, jars of glass",
+    "tariff_percent": 5.0
+  },
+  {
+    "product": "coffee beans",
+    "hs_code": "09011100",
+    "description": "Coffee, not roasted, not decaffeinated",
+    "tariff_percent": 0.0
+  },
+  {
+    "product": "printer",
+    "hs_code": "84433100",
+    "description": "Machines which perform two or more functions of printing, copying or facsimile transmission",
+    "tariff_percent": 0.0
+  },
+  {
+    "product": "olive oil",
+    "hs_code": "15091000",
+    "description": "Virgin olive oil and its fractions",
+    "tariff_percent": 3.3
+  },
+  {
+    "product": "bicycle",
+    "hs_code": "87120000",
+    "description": "Bicycles and other cycles, not motorised",
+    "tariff_percent": 11.0
+  },
+  {
+    "product": "shampoo",
+    "hs_code": "33051000",
+    "description": "Shampoos",
+    "tariff_percent": 6.0
+  },
+  {
+    "product": "ball pen",
+    "hs_code": "96081000",
+    "description": "Ball point pens",
+    "tariff_percent": 2.0
+  },
+  {
+    "product": "cotton bedsheet",
+    "hs_code": "63041940",
+    "description": "Bed linen of cotton, not knitted or crocheted",
+    "tariff_percent": 8.5
+  },
+  {
+    "product": "electric iron",
+    "hs_code": "85164000",
+    "description": "Electric smoothing irons",
+    "tariff_percent": 4.0
+  },
+  {
+    "product": "chocolate bar",
+    "hs_code": "18069000",
+    "description": "Chocolate and other food preparations containing cocoa",
+    "tariff_percent": 5.0
+  }
+]
