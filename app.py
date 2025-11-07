@@ -5,7 +5,7 @@ from datetime import date, timedelta
 # ---------------------------
 # Page configuration & styles
 # ---------------------------
-st.set_page_config(page_title="AI Advisory", layout="wide")
+st.set_page_config(page_title="Smart AI Assistant", layout="wide")
 st.markdown("""
     <style>
         .block-container { padding-top: 1rem; }
@@ -147,7 +147,7 @@ with tab2:
 
     # === LEFT PANEL: FORM ===
     with col1:
-        st.markdown("### 🧾 UPS Shipment Details Form")
+        st.markdown("### 🧾 Shipment Details Form")
 
         selected_product = st.selectbox("1. Product Name", product_names, index=product_names.index("mobile phone") if "mobile phone" in product_names else 0)
 
